@@ -3,7 +3,7 @@ Developed a methodology for extraction fetal electrocardiogram signal from the a
 
 Main points:
 
-•	Applied ICA (Independent Component Analysis), PCA (Principal Component Analysis) and SVD (Singular Value Decomposition) to process abdominal signals and extract fetal ECG signal \ maternal signal component.
+•	Applied ICA (Independent Component Analysis), PCA (Principal Component Analysis) and SVD (Singular Value Decomposition) decomposition methods to process abdominal signals and extract fetal ECG signal \ maternal signal component.
 
 •	Used adaptive filtering to reduce the influence of the maternal signal component in the fetal ECG signal.
 
